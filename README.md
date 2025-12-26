@@ -23,14 +23,14 @@ print(b)
 
 
 
-```
+
 # 2-Norm of a Matrix
 
 import numpy as np
 a=np.array(eval(input()))
 b=np.linalg.norm(a,2)
 print(round(b,2))
-```
+
 
 
 
